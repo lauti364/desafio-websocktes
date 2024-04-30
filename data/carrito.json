@@ -1,0 +1,37 @@
+{
+  "carts": [
+    {
+      "id": "1a2b3c4d",
+      "products": [
+        {
+          "id": "9 ",
+          "quantity": 1
+        },
+        {
+          "id": "9",
+          "quantity": 5
+        },
+        {
+          "id": "98787",
+          "quantity": 1
+        }
+      ]
+    },
+    {
+      "id": "5e6f7g8h",
+      "products": []
+    },
+    {
+      "id": "fdy722if0",
+      "products": []
+    },
+    {
+      "id": "ed8o5eaff",
+      "products": []
+    },
+    {
+      "id": "wx5wd1ff4",
+      "products": []
+    }
+  ]
+}

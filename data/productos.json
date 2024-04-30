@@ -1,0 +1,100 @@
+[
+  {
+    "id": 3,
+    "codigo": "3",
+    "titulo": "Infusión de manzanilla",
+    "descripcion": "Infusión relajante de manzanilla",
+    "precio": 3,
+    "thumbnail": "ruta/infusion_manzanilla.jpg",
+    "stock": 25
+  },
+  {
+    "id": 4,
+    "codigo": "4",
+    "titulo": "Gaseosa de cola",
+    "descripcion": "Clásica gaseosa sabor cola",
+    "precio": 2.5,
+    "thumbnail": "ruta/gaseosa_cola.jpg",
+    "stock": 15
+  },
+  {
+    "id": 6,
+    "codigo": "6",
+    "titulo": "Gaseosa de lima",
+    "descripcion": "Refrescante gaseosa sabor lima",
+    "precio": 2.5,
+    "thumbnail": "ruta/gaseosa_lima.jpg",
+    "stock": 20
+  },
+  {
+    "id": 7,
+    "codigo": "7",
+    "titulo": "Gaseosa de uva",
+    "descripcion": "Deliciosa gaseosa con sabor a uva",
+    "precio": 2.5,
+    "thumbnail": "ruta/gaseosa_uva.jpg",
+    "stock": 18
+  },
+  {
+    "id": 8,
+    "codigo": "8",
+    "titulo": "Infusión de té negro",
+    "descripcion": "Infusión estimulante de té negro",
+    "precio": 3.5,
+    "thumbnail": "ruta/infusion_te_negro.jpg",
+    "stock": 25
+  },
+  {
+    "id": 9,
+    "codigo": "9",
+    "titulo": "Gaseosa de limón y menta",
+    "descripcion": "Refrescante gaseosa con sabor a limón y menta",
+    "precio": 2.5,
+    "thumbnail": "ruta/gaseosa_limón_menta.jpg",
+    "stock": 15
+  },
+  {
+    "id": 10,
+    "codigo": "10",
+    "titulo": "Infusión de jengibre",
+    "descripcion": "Infusión energizante de jengibre",
+    "precio": 3.5,
+    "thumbnail": "ruta/infusion_jengibre.jpg",
+    "stock": 30
+  },
+  {
+    "id": 101,
+    "status": true,
+    "thumbnails": []
+  },
+  {
+    "id": 408,
+    "status": true,
+    "thumbnails": []
+  },
+  {
+    "id": 829,
+    "status": true,
+    "thumbnails": []
+  },
+  {
+    "id": 896,
+    "status": true,
+    "thumbnails": []
+  },
+  {
+    "id": 958,
+    "status": true,
+    "thumbnails": []
+  },
+  {
+    "id": 437,
+    "status": true,
+    "thumbnails": []
+  },
+  {
+    "id": 273,
+    "status": true,
+    "thumbnails": []
+  }
+]
